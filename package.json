@@ -1,27 +1,15 @@
 {
-  "name": "note-taker",
+  "name": "smart-book-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7",
-    "util": "^0.12.3"
-  },
-  "devDependencies": {},
+  "description": " helps organize your notes and make it easily accessible",
+  "main": "note-taker-server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node note-taker-server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AdrianStorr/note-taker.git"
-  },
-  "keywords": [],
+
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AdrianStorr/note-taker/issues"
-  },
-  "homepage": "https://github.com/AdrianStorr/note-taker#readme"
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
