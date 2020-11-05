@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,11 +23,5 @@
   "bugs": {
     "url": "https://github.com/AdrianStorr/note-taker/issues"
   },
-  "homepage": "https://github.com/AdrianStorr/note-taker#readme",
-  "devDependencies": {
-    "express": "^4.17.1",
-    "fs": "0.0.1-security",
-    "path": "^0.12.7",
-    "util": "^0.12.3"
-  }
+  "homepage": "https://github.com/AdrianStorr/note-taker#readme"
 }
