@@ -2,14 +2,25 @@
   "name": "note-taker",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianStorr/note-taker.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4",
-    "nodemon": "^2.0.6"
+  "bugs": {
+    "url": "https://github.com/AdrianStorr/note-taker/issues"
+  },
+  "homepage": "https://github.com/AdrianStorr/note-taker#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
   }
 }
