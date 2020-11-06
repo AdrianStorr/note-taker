@@ -4,7 +4,7 @@
   "description": " helps organize your notes and make it easily accessible",
   "main": "note-taker-server.js",
   "scripts": {
-    "start": "node note-taker-server.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
