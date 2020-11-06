@@ -1,5 +1,6 @@
 # note-taker- app
-[snapshot](./public/assets/images/main.png)
+![snapshot](./public/assets/images/main.png)
+
 [live website](https://boiling-river-32622.herokuapp.com/)
 
 [link to Github](https://github.com/AdrianStorr/note-taker)
