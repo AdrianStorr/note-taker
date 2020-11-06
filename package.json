@@ -1,12 +1,11 @@
 {
-  "name": "smart-book-app",
+  "name": "note-taker-app",
   "version": "1.0.0",
   "description": " helps organize your notes and make it easily accessible",
   "main": "note-taker-server.js",
   "scripts": {
     "start": "node note-taker-server.js"
   },
-
   "author": "",
   "license": "ISC",
   "dependencies": {
