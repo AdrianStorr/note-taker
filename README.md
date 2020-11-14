@@ -6,13 +6,13 @@
 [link to Github](https://github.com/AdrianStorr/note-taker)
 
 ## Table of Contents
-  * [Description](Description)
-  * [Usage](Usage)
-  * [Installation](Installation)
-  * [License](License)
-  * [Contributors](contributers)
-  * [Test](Test)
-  * [Questions](Questions)
+  - [Description](#Description)
+  - [Installation](#Installation) 
+  - [Usage](#Usage) 
+  - [License](#License)
+  - [Contributors](#contributers)
+  - [Test](#Test)
+  - [Questions](#Questions)
 
   ## Description
 Application should allow users to create and save notes.
